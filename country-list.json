@@ -256,7 +256,7 @@
             "673"
         ],
         "page_accessible": true,
-        "image": null
+         "image": "/wp-content/themes/induction/assets/images/flags/bn.png"
     },
     "Bulgaria": {
         "call_code": [
@@ -461,7 +461,7 @@
             "246"
         ],
         "page_accessible": true,
-        "image": null
+        "image": "/wp-content/themes/induction/assets/images/flags/diego.png"
     },
     "Djibouti": {
         "call_code": [
@@ -491,7 +491,7 @@
             "56"
         ],
         "page_accessible": true,
-        "image": null
+        "image": "/wp-content/themes/induction/assets/images/flags/easter-island.png"
     },
     "Ecuador": {
         "call_code": [
@@ -589,7 +589,7 @@
             "596"
         ],
         "page_accessible": true,
-        "image": null
+        "image": "/wp-content/themes/induction/assets/images/flags/french-antilles.png"
     },
     "French Guiana": {
         "call_code": [
@@ -1270,7 +1270,7 @@
             "970"
         ],
         "page_accessible": true,
-        "image": null
+       "image": "/wp-content/themes/induction/assets/images/flags/palestinian-territory.png"
     },
     "Panama": {
         "call_code": [
@@ -1551,7 +1551,7 @@
             "99534"
         ],
         "page_accessible": true,
-        "image": null
+       "image": "/wp-content/themes/induction/assets/images/flags/south-ossetia.png"
     },
     "South Sudan": {
         "call_code": [
@@ -1678,7 +1678,7 @@
             "3735"
         ],
         "page_accessible": true,
-        "image": null
+       "image": "/wp-content/themes/induction/assets/images/flags/transnistria.png"
     },
     "Trinidad and Tobago": {
         "call_code": [
@@ -1727,7 +1727,7 @@
             "1340"
         ],
         "page_accessible": false,
-        "image": null
+     "image": "/wp-content/themes/induction/assets/images/flags/vi.png"
     },
     "Uganda": {
         "call_code": [
@@ -1797,7 +1797,7 @@
             "1808"
         ],
         "page_accessible": true,
-        "image": null
+        "image": "/wp-content/themes/induction/assets/images/flags/wake-island.png"
     },
     "Wallis and Futuna": {
         "call_code": [
@@ -1825,7 +1825,7 @@
             "255"
         ],
         "page_accessible": true,
-        "image": null
+       "image": "/wp-content/themes/induction/assets/images/flags/zanzibar.jpeg"
     },
     "Zimbabwe": {
         "call_code": [
