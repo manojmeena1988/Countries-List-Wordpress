@@ -1,4 +1,11 @@
 {
+   "United Kingdom": {
+        "call_code": [
+            "44"
+        ],
+        "page_accessible": true,
+        "image": "/wp-content/themes/induction/assets/images/flags/gb.png"
+    },
     "Afghanistan": {
         "call_code": [
             "93"
@@ -1742,13 +1749,6 @@
         ],
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/ae.png"
-    },
-    "United Kingdom": {
-        "call_code": [
-            "44"
-        ],
-        "page_accessible": true,
-        "image": "/wp-content/themes/induction/assets/images/flags/gb.png"
     },
     "United States": {
         "call_code": [
