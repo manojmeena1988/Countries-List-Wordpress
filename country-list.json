@@ -697,7 +697,7 @@
             "447911"
         ],
         "page_accessible": true,
-        "image": "/wp-content/themes/induction/assets/images/flags/in.png"
+        "image": "/wp-content/themes/induction/assets/images/flags/guernsey-flag.jpg"
     },
     "Guinea": {
         "call_code": [
@@ -1223,13 +1223,6 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/gb-nir.png"
     },
-    "North Korea": {
-        "call_code": [
-            "850"
-        ],
-        "page_accessible": true,
-        "image": "/wp-content/themes/induction/assets/images/flags/kp.png"
-    },
     "Northern Mariana Islands": {
         "call_code": [
             "1 670"
@@ -1539,13 +1532,7 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/gs.png"
     },
-    "South Korea": {
-        "call_code": [
-            "82"
-        ],
-        "page_accessible": true,
-        "image": "/wp-content/themes/induction/assets/images/flags/kr.png"
-    },
+  
     "South Ossetia": {
         "call_code": [
             "99534"
