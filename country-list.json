@@ -1223,6 +1223,13 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/gb-nir.png"
     },
+   "North Macedonia" :{
+        "call_code": [
+            "389"
+        ],
+        "page_accessible": true,
+      "image" : "/wp-content/themes/induction/assets/images/Flag_of_North_Macedonia.svg"
+   },
     "Northern Mariana Islands": {
         "call_code": [
             "1 670"
@@ -1258,7 +1265,7 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/pw.png"
     },
-    "Palestinian Territory": {
+    "State of Palestin": {
         "call_code": [
             "970"
         ],
@@ -1336,7 +1343,7 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/qa.png"
     },
-    "Reunion": {
+    "Réunion": {
         "call_code": [
             "262"
         ],
@@ -1518,6 +1525,14 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/sb.png"
     },
+   "Somalia": {
+        "call_code": [
+            "252"
+        ],
+        "page_accessible": true,
+        "image": "/wp-content/themes/induction/assets/images/flags/somalia.jpg"
+    },
+   
     "South Africa": {
         "call_code": [
             "27"
@@ -1575,6 +1590,14 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/sr.png"
     },
+   "Svalbard": {
+        "call_code": [
+            "47"
+        ],
+        "page_accessible": true,
+        "image": "/wp-content/themes/induction/assets/images/flags/sj.png"
+    },
+   
     "Swaziland": {
         "call_code": [
             "268"
@@ -1631,7 +1654,7 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/th.png"
     },
-    "Timor Leste": {
+    "East Timor": {
         "call_code": [
             "670"
         ],
@@ -1667,6 +1690,14 @@
         "page_accessible": true,
        "image": "/wp-content/themes/induction/assets/images/flags/transnistria.png"
     },
+   "Tristan da Cunha": {
+        "call_code": [
+            "290"
+        ],
+        "page_accessible": true,
+       "image": "/wp-content/themes/induction/assets/images/flags/sh.png"
+    },
+   
     "Trinidad and Tobago": {
         "call_code": [
             "1868"
