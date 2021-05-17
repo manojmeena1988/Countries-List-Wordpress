@@ -1146,13 +1146,7 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/nl.png"
     },
-    "Netherlands Antilles": {
-        "call_code": [
-            "599"
-        ],
-        "page_accessible": true,
-        "image": "/wp-content/themes/induction/assets/images/flags/Netherlands_Antilles.png"
-    },
+
     "Nevis": {
         "call_code": [
             "1869"
@@ -1597,14 +1591,7 @@
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/sj.png"
     },
-   
-    "Swaziland": {
-        "call_code": [
-            "268"
-        ],
-        "page_accessible": true,
-        "image": "/wp-content/themes/induction/assets/images/flags/sz.png"
-    },
+
     "Sweden": {
         "call_code": [
             "46"
@@ -1809,13 +1796,6 @@
         ],
         "page_accessible": true,
         "image": "/wp-content/themes/induction/assets/images/flags/vn.png"
-    },
-    "Wake Island": {
-        "call_code": [
-            "1808"
-        ],
-        "page_accessible": true,
-        "image": "/wp-content/themes/induction/assets/images/flags/wake-island.png"
     },
     "Wallis and Futuna": {
         "call_code": [
